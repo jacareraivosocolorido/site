@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc456F16514E29E96AfB5C64596E9516bb1128782",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc456F16514E29E96AfB5C64596E9516bb1128782",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "jacare-raivoso-colorido",
+  "SYMBOL": "Matic",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/jacare-raivoso-colorido",
+  "SHOW_BACKGROUND": true
+}
